@@ -1,0 +1,13 @@
+syntax = "proto2";
+
+package cosc435;
+
+message BasicIMNugget {
+
+	required string nickname = 1;
+	required string message = 2;
+
+}
+
+
+
